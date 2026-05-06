@@ -2,7 +2,7 @@
   "mcpServers": {
     "figma": {
       "command": "npx",
-      "args": ["-y", "figma-developer-mcp", "--figma-api-key=COLE_SUA_NOVA_CHAVE_AQUI"]
+      "args": ["-y", "figma-developer-mcp", "figd_tFh9heXf2z-JJPL0xWfJNqfaCDx2DnPzjYLIxpXc"]
     }
   }
 }
